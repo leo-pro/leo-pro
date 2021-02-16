@@ -1,4 +1,5 @@
 # Hi, I'm Leonardo Alves 👋
+<img src="https://devleo.com.br/assets/images/logo.png">
 
 ## Connect with me
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
