@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://devleo.com.br/assets/images/logo.png" width="180px" height="40px">  </h1>
 
 <p align="center"> 
-  <p align="center"> Hi, I'm Leonardo Alves 👋 <br> Front-end developer, guitar player in his spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
+  <p align="center"> Hi, I'm Leonardo Alves 👋 <br> Front-end developer, guitar player in my spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardoalvess/">
