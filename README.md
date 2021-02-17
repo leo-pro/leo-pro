@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://devleo.com.br/assets/images/logo.png" width="180px" height="40px">  </h1>
 
-<h3 align="center"> Hi 👋, I'm Leonardo Alves 👨‍💻 </h3>
+<h3 align="center"> Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Leonardo Alves 👨‍💻 </h3>
 <p align="center"> 
   <p align="center"> Full Stack Developer, guitar player in my spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
 </p>
