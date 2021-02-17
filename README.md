@@ -1,8 +1,10 @@
 <h1 align="center"> <img src="https://devleo.com.br/assets/images/logo.png" width="180px" height="40px">  </h1>
 
+<h3 align="center"> Hi 👋, I'm Leonardo Alves 👨‍💻 </h3>
 <p align="center"> 
-  <p align="center"> Hi, I'm Leonardo Alves 👋 <br> Front-end developer, guitar player in my spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
+  <p align="center"> Full Stack Developer, guitar player in my spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
 </p>
+<h3 align="center"> How to reach me? </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardoalvess/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +14,7 @@
   </a>  
 </p>
 
-<h4 align="center">My Skills 🚀</h4>
+<h3 align="center">My Skills 🚀</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
