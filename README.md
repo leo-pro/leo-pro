@@ -25,7 +25,7 @@
 
 
 <details>
-  <h3><summary>Github Stats</summary></h3>
+  <summary>Github Stats</summary>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=leo-pro&show_icons=true&theme=algolia" width="400px">
   </div>
