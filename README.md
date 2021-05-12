@@ -2,7 +2,7 @@
 
 <h3> Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h3>
 <p> 
-  <p> I'm a Software Engineer focused 👨‍💻 on Front-end engineering and architecture, guitar player in my spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
+  <p> I'm a Software Engineer as @Sensedia focused 👨‍💻 on Front-end engineering and architecture. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
 </p>
 <h3> How to reach me? </h3>
 <p>
@@ -24,7 +24,10 @@
 </p>
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leo-pro&show_icons=true&theme=algolia" width="400px">
-</p>
+<details>
+  <summary>Github Stats</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=leo-pro&show_icons=true&theme=algolia" width="400px">
+  </div>
+</details>
 
