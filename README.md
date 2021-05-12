@@ -1,8 +1,8 @@
 <!--<h1 align="center"> <img src="https://devleo.com.br/assets/images/logo.png" width="180px" height="40px">  </h1>-->
 
-<h3> Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Leonardo Alves 👨‍💻 </h3>
+<h3> Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h3>
 <p> 
-  <p> I'm a Software Engineer focused on Front-end engineering and architecture, guitar player in my spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
+  <p> I'm a Software Engineer focused 👨‍💻 on Front-end engineering and architecture, guitar player in my spare time. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
 </p>
 <h3> How to reach me? </h3>
 <p>
