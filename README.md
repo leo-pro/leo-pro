@@ -2,15 +2,15 @@
 
 <h3> Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h3>
 <p> 
-  <p> I'm a Software Engineer at @Sensedia focused 👨‍💻 on Front-end engineering and architecture. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
+<p> I'm a Software Engineer at <a href="https://sensedia.com" target="_blank">@Sensedia</a> focused 👨‍💻 on Front-end engineering and architecture. I am passionate about technology and use the power of programming to create innovative solutions with a focus on user experience and business growth. </p>
 </p>
 <h3> How to reach me? </h3>
 <p>
   <a href="https://www.linkedin.com/in/leonardoalvess/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%23262626.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/leoalvesrr">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-%23262626.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>  
 </p>
 
