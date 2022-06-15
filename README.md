@@ -1,6 +1,6 @@
 <!--<h1 align="center"> <img src="https://devleo.com.br/assets/images/logo.png" width="180px" height="40px">  </h1>-->
 
-<h3> Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h3>
+<h3> Hello Folks! </h3>
 <p> 
 <p> I'm a Software Engineer👨‍💻 focused on Front-end engineering and architecture. I'm passionate about technology and I really enjoy studying and create innovative solutions with a focus on user experience and business growth. </p>
 </p>
