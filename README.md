@@ -2,7 +2,7 @@
 
 <h3> Hello Folks! </h3>
 <p> 
-<p> I'm a Software Engineer👨‍💻 focused on Front-end engineering and architecture. I'm passionate about technology and I really enjoy studying and create innovative solutions with a focus on user experience and business growth. </p>
+<p> I'm a Software Engineer👨‍💻 focused on Front-end engineering and architecture. I’m passionate about solving real-world problems with Front-end engineering associated with a great user experience, but I am always eager to learn and explore new technologies and tools to find the best solution for each project.</p>
 </p>
 <h3> How to reach me? </h3>
 <p>
